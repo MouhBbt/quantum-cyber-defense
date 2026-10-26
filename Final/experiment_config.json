@@ -1,0 +1,19 @@
+{
+  "n_qubits": 4,
+  "circuit_depth": 2,
+  "shots": null,
+  "gamma": 0.97,
+  "quantum_episodes": 60,
+  "dqn_episodes": 80,
+  "ppo_episodes": 80,
+  "eval_episodes": 12,
+  "seeds": [
+    11,
+    23
+  ],
+  "max_steps": 40,
+  "learning_rate": 0.015,
+  "dqn_learning_rate": 0.001,
+  "ppo_learning_rate": 0.001,
+  "quick_mode": true
+}

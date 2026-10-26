@@ -1,0 +1,18 @@
+# Personal interview preparation and presentation drafts
+/Interview_Preparation.md
+/Slide_Script.md
+/Project_Explanation.md
+/pitch/
+/presentation_assets/
+/Quantum_Cyber_Defense_Presentation.*
+
+# Archives and generated dumps
+*.zip
+Final/notebook_dump.txt
+
+# Local environment files
+.env
+.env.*
+.venv/
+__pycache__/
+.ipynb_checkpoints/
